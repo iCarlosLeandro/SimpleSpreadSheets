@@ -1,5 +1,5 @@
 # SimpleSpreadSheets
-Helloo!
+Hiii!
 SpreadSheets
 I made several compromises, but it ended up working 😅
 This code works as a co-relationship between a simple table of the value of an X product, with the location of the State in which the purchase was made (In this case, I used the states of Brazil as an example).
